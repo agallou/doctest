@@ -93,6 +93,5 @@ Relative Image # 2 :
 
 Lets test if this is the fix for #241
 Relative Image # 3 : 
-![Relative Link 3](doctest/blob/master/Category_2.png) 
-Relative Image # 4 : 
-![Relative Link 4](doctest/blob/master/Category_2.png?raw=true) 
+![Relative Link 3](Category_2.png) 
+
